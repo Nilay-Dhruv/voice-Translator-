@@ -1,5 +1,5 @@
-Run the commad in cmd :
-pip install speechrecognition
+Run the commad in cmd :   \n                                                       
+pip install speechrecognition    
 pip install deep_translator
 pip install pyttsx3
 pip install Pyqt5
